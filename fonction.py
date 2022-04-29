@@ -19,7 +19,7 @@ def inverserListe(liste):
         liste[i], liste[i+positionMilieu] = liste[i+positionMilieu], liste[i]
         
         bufferHTML += remplirBufferHTML(i, liste)
-    # La liste passée dans la fonction est directement modifié, donc pas besoin de la retourner
+    # La liste passée dans la fonction est directement modifiée, donc pas besoin de la retourner
     return bufferHTML
 
 
