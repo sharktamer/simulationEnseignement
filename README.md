@@ -1,7 +1,7 @@
 # README
-Auteur : Mathieu Morissette
-Date : 29 Avril 2022
-Description : Application extrêmement simple de permutation d'éléments dans une liste pour ma simulation d'enseignement
+- Auteur : Mathieu Morissette
+- Date : 29 Avril 2022
+- Description : Application extrêmement simple de permutation d'éléments dans une liste pour ma simulation d'enseignement
 
 # Fichiers :
 ## app.py
